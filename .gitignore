@@ -1,0 +1,26 @@
+ # Node dependencies (in case you run npm install later)
+node_modules/
+
+# Build / dist output
+dist/
+build/
+.cache/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
